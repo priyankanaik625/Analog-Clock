@@ -13,4 +13,4 @@ This is a Analog-Clock which shows actual timing :) taken inspiration from Scrim
 3. Now you should have a running application!!!
 
 # Output
-<img src="https://github.com/priyankanaik625/Analog-Clock/blob/main/analog-clock.mov" alt="showcase video" title="showcase video" />
+<img src="https://github.com/priyankanaik625/Analog-Clock/blob/main/analog-clock.gif" alt="showcase Gif" title="showcase gif" width="500"/>
